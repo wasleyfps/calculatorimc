@@ -1,0 +1,14 @@
+C:\Users\wasle\Documents\GitHub\calculatorimc\bin\Debug\net8.0\calculatorimc.exe
+C:\Users\wasle\Documents\GitHub\calculatorimc\bin\Debug\net8.0\calculatorimc.deps.json
+C:\Users\wasle\Documents\GitHub\calculatorimc\bin\Debug\net8.0\calculatorimc.runtimeconfig.json
+C:\Users\wasle\Documents\GitHub\calculatorimc\bin\Debug\net8.0\calculatorimc.dll
+C:\Users\wasle\Documents\GitHub\calculatorimc\bin\Debug\net8.0\calculatorimc.pdb
+C:\Users\wasle\Documents\GitHub\calculatorimc\obj\Debug\net8.0\calculatorimc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasle\Documents\GitHub\calculatorimc\obj\Debug\net8.0\calculatorimc.AssemblyInfoInputs.cache
+C:\Users\wasle\Documents\GitHub\calculatorimc\obj\Debug\net8.0\calculatorimc.AssemblyInfo.cs
+C:\Users\wasle\Documents\GitHub\calculatorimc\obj\Debug\net8.0\calculatorimc.csproj.CoreCompileInputs.cache
+C:\Users\wasle\Documents\GitHub\calculatorimc\obj\Debug\net8.0\calculatorimc.dll
+C:\Users\wasle\Documents\GitHub\calculatorimc\obj\Debug\net8.0\refint\calculatorimc.dll
+C:\Users\wasle\Documents\GitHub\calculatorimc\obj\Debug\net8.0\calculatorimc.pdb
+C:\Users\wasle\Documents\GitHub\calculatorimc\obj\Debug\net8.0\calculatorimc.genruntimeconfig.cache
+C:\Users\wasle\Documents\GitHub\calculatorimc\obj\Debug\net8.0\ref\calculatorimc.dll
